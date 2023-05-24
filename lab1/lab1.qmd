@@ -1,6 +1,6 @@
 ---
 title: "Сбор информации о системе"
-author: Tsvetkov Artyom BISO-02-20
+author: Tsvetkov Artyom BISO-03-20
 format:
     md:
         output-file: README.md
